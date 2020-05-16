@@ -1,0 +1,7 @@
+﻿  DynamicMatrix.cpp
+C:\Users\Eric\Desktop\TEC\Estructuras de datos\EjemploDynamicMatrix\EjemploDynamicMatrix\DynamicMatrix.h(18,10): error C2065:  'runtime_error': undeclared identifier
+C:\Users\Eric\Desktop\TEC\Estructuras de datos\EjemploDynamicMatrix\EjemploDynamicMatrix\DynamicMatrix.h(18,10): error C3861:  'runtime_error': identifier not found
+C:\Users\Eric\Desktop\TEC\Estructuras de datos\EjemploDynamicMatrix\EjemploDynamicMatrix\DynamicMatrix.h(18,23): message :  'runtime_error': function declaration must be available as none of the arguments depend on a template parameter
+  EjemploDynamicMatrix.cpp
+  Generating Code...
+C:\Users\Eric\Desktop\TEC\Estructuras de datos\EjemploDynamicMatrix\EjemploDynamicMatrix\DynamicMatrix.h(34): message :  see reference to class template instantiation 'DynamicMatrix<E>' being compiled

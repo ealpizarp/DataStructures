@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1589664561 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\main.cpp
+	<iostream>
+	"UnsortedArrayDictionary.h"
+
+1589660243 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\dictionary.h
+	"List.h"
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\list.h
+
+1589660700 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\kvpair.h
+
+1589660739 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\unsortedarraydictionary.h
+	"Dictionary.h"
+	"KVPair.h"
+	"DlinkedList.h"
+	"ArrayList.h"
+
+1587248501 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1587226214 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\dnode.h
+
+1583786157 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\clasediccionario\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
