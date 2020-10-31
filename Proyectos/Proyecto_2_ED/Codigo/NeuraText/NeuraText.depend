@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1596218272 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\main.cpp
+	"windows.h"
+	"NeuraText.h"
+	"Trie.h"
+	<locale>
+	<limits>
+	<chrono>
+	<filesystem>
+
+1596470720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\neuratext.h
+	<fstream>
+	<iostream>
+	<stdexcept>
+	"AVLTreeDictionary.h"
+	"SplayTree.h"
+	"Trie.h"
+	"ArrayList.h"
+
+1596213321 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\avltreedictionary.h
+	"Dictionary.h"
+	"AVLTree.h"
+	"KVPair.h"
+	<stdexcept>
+
+1596215758 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\dictionary.h
+	"List.h"
+
+1596216407 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\list.h
+
+1596213114 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\avltree.h
+	"List.h"
+	"DLinkedList.h"
+	"BSTNode.h"
+	<stdexcept>
+
+1596215967 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\dlinkedlist.h
+	"DNode.h"
+	<stdexcept>
+	<iostream>
+
+1596215967 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\dnode.h
+
+1596213493 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\bstnode.h
+
+1596216407 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\kvpair.h
+
+1596216407 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\trie.h
+	<string>
+	<stdexcept>
+	"TrieNode.h"
+	"MaxHeap.h"
+	"HeapNode.h"
+	"ArrayList.h"
+
+1596216649 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\trienode.h
+	"AVLTreeDictionary.h"
+
+1596223348 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\maxheap.h
+	"HeapNode.h"
+	<stdexcept>
+
+1596215967 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\heapnode.h
+
+1596212964 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1596216649 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\splaytree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+	<iostream>
+
+1595897120 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\conmanip.h
+	<windows.h>
+	<iostream>
+	<string>
+
+1595950987 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\include\uchar.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<bits/types/mbstate_t.h>
+
+1595951577 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\/\unicode
+
+1595961114 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\uchar.h
+	"unicode/utypes.h"
+	"unicode/stringoptions.h"
+	"unicode/ucpmap.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\utypes.h
+	"unicode/umachine.h"
+	"unicode/uversion.h"
+	"unicode/uconfig.h"
+	<float.h>
+	"unicode/utf.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\umachine.h
+	"unicode/ptypes.h"
+	<stddef.h>
+	<uchar.h>
+	"unicode/urename.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\ptypes.h
+	<stddef.h>
+	"unicode/platform.h"
+	<stdint.h>
+	<features.h>
+	<inttypes.h>
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\platform.h
+	"unicode/uconfig.h"
+	"unicode/uvernum.h"
+	<android/api-level.h>
+	<TargetConditionals.h>
+	<sys/endian.h>
+	<sys/isa_defs.h>
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\uconfig.h
+	"uconfig_local.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\uvernum.h
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\urename.h
+	"unicode/uconfig.h"
+	"unicode/umachine.h"
+	"unicode/uvernum.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\uversion.h
+	"unicode/umachine.h"
+	"unicode/uvernum.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\utf.h
+	"unicode/umachine.h"
+	"unicode/utf8.h"
+	"unicode/utf16.h"
+	"unicode/utf_old.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\utf8.h
+	"unicode/umachine.h"
+	"unicode/utf.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\utf16.h
+	"unicode/umachine.h"
+	"unicode/utf.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\utf_old.h
+	"unicode/utf.h"
+	"unicode/utf8.h"
+	"unicode/utf16.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\stringoptions.h
+	"unicode/utypes.h"
+
+1587577981 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode\ucpmap.h
+	"unicode/utypes.h"
+
+1595951578 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\proyectos\proyecto_2_ed\codigo\neuratext\unicode\include\unicode
+

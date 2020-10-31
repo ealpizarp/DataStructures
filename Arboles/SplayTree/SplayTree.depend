@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1595895155 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\splaytree\main.cpp
+	<iostream>
+	"SplayTree.h"
+
+1595895118 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\splaytree\include\splaytree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1592704063 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\splaytree\include\bstnode.h
+

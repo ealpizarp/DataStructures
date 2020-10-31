@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1592621187 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\main.cpp
+	<iostream>
+	"LinkedPriorityQueue.h"
+	<string>
+	<time.h>
+	<cstdlib>
+
+1592621262 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\include\linkedpriorityqueue.h
+	"LinkedQueue.h"
+	"PriorityQueue.h"
+
+1590803417 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\include\linkedqueue.h
+	<stdexcept>
+	"Queue.h"
+	"Node.h"
+
+1583293231 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\include\queue.h
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\include\node.h
+
+1592620242 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\queue\priorityqueue\include\priorityqueue.h
+

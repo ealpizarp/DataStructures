@@ -54,7 +54,7 @@ class ArrayList : public List<T>
     }
 
     T res=elements[pos];
-    for(int i=pos; i<size; i++){
+    for(int i=pos; i <size -1; i++){
         elements[i]=elements[i+1];
     }
     size--;

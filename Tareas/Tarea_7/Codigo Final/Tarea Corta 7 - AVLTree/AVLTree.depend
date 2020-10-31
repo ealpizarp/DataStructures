@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1399057801 source:c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\main.cpp
+	<iostream>
+	"include\AVLTree.h"
+
+1399057833 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\include\avltree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1398630737 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\include\bstnode.h
+
+1399057801 source:c:\users\admin\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\main.cpp
+	<iostream>
+	"include\AVLTree.h"
+
+1430255795 c:\users\admin\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\include\avltree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1398630737 c:\users\admin\dropbox\personal\cursos\estructuras de datos\código\estructuras\avltree\include\bstnode.h
+
+1525576540 source:c:\users\mauricio\google drive\cursos\estructuras de datos\código\estructuras\_herencia\avltree\main.cpp
+	<iostream>
+	"include\AVLTree.h"
+	"KVPair.h"
+
+1525576676 c:\users\mauricio\google drive\cursos\estructuras de datos\código\estructuras\_herencia\avltree\include\avltree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1525564675 c:\users\mauricio\google drive\cursos\estructuras de datos\código\estructuras\_herencia\avltree\include\bstnode.h
+
+1525576482 c:\users\mauricio\google drive\cursos\estructuras de datos\código\estructuras\_herencia\avltree\include\kvpair.h
+	<iostream>
+
+1595641098 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\tarea corta 7 - avltree\main.cpp
+	<iostream>
+	"include\AVLTree.h"
+	"KVPair.h"
+
+1595641107 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\tarea corta 7 - avltree\include\avltree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1525564675 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\tarea corta 7 - avltree\include\bstnode.h
+
+1525576915 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\tarea corta 7 - avltree\include\kvpair.h
+	<iostream>
+
+1595641098 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\codigo final\tarea corta 7 - avltree\main.cpp
+	<iostream>
+	"include\AVLTree.h"
+	"KVPair.h"
+
+1595643425 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\codigo final\tarea corta 7 - avltree\include\avltree.h
+	"BSTNode.h"
+	<stdexcept>
+	<cmath>
+
+1525564675 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\codigo final\tarea corta 7 - avltree\include\bstnode.h
+
+1525576915 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_7\codigo final\tarea corta 7 - avltree\include\kvpair.h
+	<iostream>
+

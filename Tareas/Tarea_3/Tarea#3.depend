@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1584332116 source:c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#3\main.cpp
+	<iostream>
+	"DLinkedList.h"
+
+1584643635 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#3\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1584325488 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#3\include\list.h
+
+1584326746 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#3\include\dnode.h
+
+1591482715 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#3\main.cpp
+	<iostream>
+	"DLinkedList.h"
+
+1584648562 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#3\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1584325488 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#3\include\list.h
+
+1584326746 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#3\include\dnode.h
+

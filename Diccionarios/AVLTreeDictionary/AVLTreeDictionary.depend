@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1595792226 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\main.cpp
+	<iostream>
+	"AVLTreeDictionary.h"
+	"DLinkedList.h"
+	<fstream>
+	<string>
+
+1595739814 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\avltreedictionary.h
+	"Dictionary.h"
+	"AVLTree.h"
+	"KVPair.h"
+	<stdexcept>
+
+1589660243 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\dictionary.h
+	"List.h"
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\list.h
+
+1595018914 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\avltree.h
+	"List.h"
+	"DLinkedList.h"
+	"BSTNode.h"
+	<stdexcept>
+
+1595639656 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\dlinkedlist.h
+	"DNode.h"
+	<stdexcept>
+
+1587226214 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\dnode.h
+
+1592704063 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\bstnode.h
+
+1595644078 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\diccionarios\avltreedictionary\include\kvpair.h
+

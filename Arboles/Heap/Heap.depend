@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1592674724 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heap\main.cpp
+	<iostream>
+	"MinHeap.h"
+	<cstdlib>
+	<time.h>
+
+1592679918 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heap\include\minheap.h
+	<stdexcept>
+

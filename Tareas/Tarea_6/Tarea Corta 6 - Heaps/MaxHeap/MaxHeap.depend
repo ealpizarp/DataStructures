@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1398216497 source:c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\maxheap\main.cpp
+	<iostream>
+	"include\MaxHeap.h"
+	<string>
+
+1398216661 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\maxheap\include\maxheap.h
+	"HeapNode.h"
+	<stdexcept>
+
+1398140462 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\maxheap\include\heapnode.h
+
+1594769415 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps\maxheap\main.cpp
+	<iostream>
+	"include\MaxHeap.h"
+	<string>
+	<time.h>
+
+1594775668 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps\maxheap\include\maxheap.h
+	<stdexcept>
+

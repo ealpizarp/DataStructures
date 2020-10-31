@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1583811761 source:c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\main.cpp
+	<iostream>
+	"List.h"
+	"ArrayList.h"
+	"LinkedList.h"
+	"SortedArrayList.h"
+	"SortedLinkedList.h"
+	<time.h>
+
+1583464940 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\list.h
+
+1583786157 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1583799570 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583512720 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\node.h
+
+1583806371 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\sortedarraylist.h
+	"ArrayList.h"
+
+1583808222 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\sortedlinkedlist.h
+	"LinkedList.h"
+
+1590195616 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\main.cpp
+	<iostream>
+	"List.h"
+	"ArrayList.h"
+	"LinkedList.h"
+	"SortedArrayList.h"
+	"SortedLinkedList.h"
+	<time.h>
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\list.h
+
+1583786157 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1583799570 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\node.h
+
+1583806371 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\sortedarraylist.h
+	"ArrayList.h"
+
+1583808222 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_2\include\sortedlinkedlist.h
+	"LinkedList.h"
+

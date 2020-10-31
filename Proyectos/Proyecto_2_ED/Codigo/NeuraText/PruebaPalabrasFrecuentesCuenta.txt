@@ -1,0 +1,29 @@
+Hola esto es una prueba de una prueba de otra prueba
+acerca de las palabras muy frecuentes en un texto con otro
+texto dentro de este texto con mas texto y otros texto, el
+cual se puede percibir de una manera y otra manera de la misma manera jaja
+esto es un poco tonto
+
+Hola 1
+esto 2
+es 2
+una 3
+prueba 3
+de 6
+otra 2
+acerca 1
+las 1
+texto 5
+manera 3
+y 2
+un 2
+con 2
+
+
+
+
+
+
+
+
+

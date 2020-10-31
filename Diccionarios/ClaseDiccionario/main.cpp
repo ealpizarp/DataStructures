@@ -24,8 +24,9 @@ void printValues(UnsortedArrayDictionary<int, string> &dict){
 
 int main()
 {
+    /*
     UnsortedArrayDictionary<int, string> dict;
-
+    cout<<"insertando valores"<<endl;
     dict.insert(3, "tres");
     dict.insert(1, "uno");
     dict.insert(2, "dos");
@@ -56,6 +57,19 @@ int main()
     dict.remove(93);
     printKeys(dict);
     printValues(dict);
+    */
+    UnsortedArrayDictionary<int, string> dict;
+
+    for (int i = 0; i<10; i+=3) {
+        cout<< "key: "<<i <<" value: "<<i*i<<endl;
+    }
+    for (int i = 1; i< 18; i+=4) {
+        cout<<"key: "<<i<<" value: "<<i*2<<endl;
+    }
+    for (int i = 0; i< 10; i+=6) {
+        cout<<"remove: "<<i<<endl;
+    }
+
 
 
 

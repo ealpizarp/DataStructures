@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1583021449 source:c:\users\eric\desktop\tec\estructuras de datos\tareas\tarea#1\main.cpp
+	<iostream>
+	"DynamicMatrix.h"
+	<cstdlib>
+	<time.h>
+
+1583021449 
+
+1583021333 c:\users\eric\desktop\tec\estructuras de datos\tareas\tarea#1\include\dynamicmatrix.h
+	<stdexcept>
+
+1583021333 >
+
+1583050248 source:/media/ealpizarp/BOOTCAMP/Users/Eric Alpizar/Desktop/TEC/Estructuras de datos/Tareas/Tarea#1/main.cpp
+	<iostream>
+	"DynamicMatrix.h"
+	<cstdlib>
+	<time.h>
+
+1583050132 /media/ealpizarp/BOOTCAMP/Users/Eric Alpizar/Desktop/TEC/Estructuras de datos/Tareas/Tarea#1/include/DynamicMatrix.h
+	<stdexcept>
+
+1583050248 source:c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#1\main.cpp
+	<iostream>
+	"DynamicMatrix.h"
+	<cstdlib>
+	<time.h>
+
+1583050132 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#1\include\dynamicmatrix.h
+	<stdexcept>
+
+1583050248 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#1\main.cpp
+	<iostream>
+	"DynamicMatrix.h"
+	<cstdlib>
+	<time.h>
+
+1583050132 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#1\include\dynamicmatrix.h
+	<stdexcept>
+

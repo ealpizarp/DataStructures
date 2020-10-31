@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1594865157 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps segunda implementacion\tarea_6\main.cpp
+	<iostream>
+	"MaxHeap.h"
+	"HeapNode.h"
+	<limits>
+	<time.h>
+
+1594861836 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps segunda implementacion\tarea_6\include\maxheap.h
+	"HeapNode.h"
+	<stdexcept>
+
+1594860316 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps segunda implementacion\tarea_6\src\ewfew.cpp
+	"ewfew.h"
+
+1594860316 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps segunda implementacion\tarea_6\include\ewfew.h
+
+1594860503 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_6\tarea corta 6 - heaps segunda implementacion\tarea_6\include\heapnode.h
+

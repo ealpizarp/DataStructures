@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1590456213 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4\main.cpp
+	<iostream>
+	"ArrayStack.h"
+	"LinkedStack.h"
+	<string>
+
+1590445873 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4\include\arraystack.h
+	"Stack.h"
+	<stdexcept>
+
+1590364890 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4\include\stack.h
+
+1590443154 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4\include\linkedstack.h
+	"Node.h"
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4\include\node.h
+
+1590456867 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt1\main.cpp
+	<iostream>
+	"ArrayStack.h"
+	"LinkedStack.h"
+	<string>
+
+1590445873 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt1\include\arraystack.h
+	"Stack.h"
+	<stdexcept>
+
+1590364890 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt1\include\stack.h
+
+1590443154 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt1\include\linkedstack.h
+	"Node.h"
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt1\include\node.h
+

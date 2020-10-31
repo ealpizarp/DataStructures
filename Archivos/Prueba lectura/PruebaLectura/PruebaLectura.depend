@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1595732185 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\archivos\prueba lectura\pruebalectura\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<string>
+

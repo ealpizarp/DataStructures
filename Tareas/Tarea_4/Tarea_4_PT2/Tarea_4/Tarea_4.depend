@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1590778586 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt2\tarea_4\main.cpp
+	<iostream>
+	"LinkedQueue.h"
+	"ArrayQueue.h"
+	<stdlib.h>
+	<time.h>
+	<string>
+
+1590803245 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt2\tarea_4\include\linkedqueue.h
+	<stdexcept>
+	"Queue.h"
+	"Node.h"
+
+1590724209 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt2\tarea_4\include\queue.h
+
+1583512720 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt2\tarea_4\include\node.h
+
+1590775380 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea#4\tarea_4_pt2\tarea_4\include\arrayqueue.h
+	<stdexcept>
+	"Queue.h"
+

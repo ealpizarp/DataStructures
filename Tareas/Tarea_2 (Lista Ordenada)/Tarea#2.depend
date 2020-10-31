@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1583813020 source:c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\main.cpp
+	<iostream>
+	"List.h"
+	"ArrayList.h"
+	"LinkedList.h"
+	"SortedArrayList.h"
+	"SortedLinkedList.h"
+	<time.h>
+
+1583468540 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\list.h
+
+1583789757 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1583803170 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583516320 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\node.h
+
+1583809971 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\sortedarraylist.h
+	"ArrayList.h"
+
+1583811822 c:\users\eric alpizar\desktop\tec\estructuras de datos\tareas\tarea#2\include\sortedlinkedlist.h
+	"LinkedList.h"
+
+1583811761 source:c:\users\eric alpizar\desktop\tarea#2\main.cpp
+	<iostream>
+	"List.h"
+	"ArrayList.h"
+	"LinkedList.h"
+	"SortedArrayList.h"
+	"SortedLinkedList.h"
+	<time.h>
+
+1583464940 c:\users\eric alpizar\desktop\tarea#2\include\list.h
+
+1583786157 c:\users\eric alpizar\desktop\tarea#2\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1583799570 c:\users\eric alpizar\desktop\tarea#2\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583512720 c:\users\eric alpizar\desktop\tarea#2\include\node.h
+
+1583889990 c:\users\eric alpizar\desktop\tarea#2\include\sortedarraylist.h
+	"ArrayList.h"
+
+1583887952 c:\users\eric alpizar\desktop\tarea#2\include\sortedlinkedlist.h
+	"LinkedList.h"
+
+1584148163 source:c:\users\eric alpizar\desktop\tec\tarea#2\main.cpp
+	<iostream>
+	"List.h"
+	"ArrayList.h"
+	"LinkedList.h"
+	"SortedArrayList.h"
+	"SortedLinkedList.h"
+	<time.h>
+
+1584036869 c:\users\eric alpizar\desktop\tec\tarea#2\include\list.h
+
+1584036595 c:\users\eric alpizar\desktop\tec\tarea#2\include\arraylist.h
+	"List.h"
+	<stdexcept>
+
+1584144795 c:\users\eric alpizar\desktop\tec\tarea#2\include\linkedlist.h
+	"Node.h"
+	"List.h"
+
+1583512720 c:\users\eric alpizar\desktop\tec\tarea#2\include\node.h
+
+1584036358 c:\users\eric alpizar\desktop\tec\tarea#2\include\sortedarraylist.h
+	"ArrayList.h"
+
+1583887952 c:\users\eric alpizar\desktop\tec\tarea#2\include\sortedlinkedlist.h
+	"LinkedList.h"
+

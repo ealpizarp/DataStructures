@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1398631102 source:c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\bstree\main.cpp
+	<iostream>
+	"include\BSTree.h"
+	<string>
+
+1398630763 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\bstree\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1398630737 c:\users\maviles\dropbox\personal\cursos\estructuras de datos\código\estructuras\bstree\include\bstnode.h
+
+1398631170 source:c:\users\mavil\onedrive - tec\cursos\ed\tareas\tarea corta 5 - hash table, Árboles de búsqueda binaria\bstree\main.cpp
+	<iostream>
+	"include\BSTree.h"
+	<string>
+
+1398861672 c:\users\mavil\onedrive - tec\cursos\ed\tareas\tarea corta 5 - hash table, Árboles de búsqueda binaria\bstree\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1398860406 c:\users\mavil\onedrive - tec\cursos\ed\tareas\tarea corta 5 - hash table, Árboles de búsqueda binaria\bstree\include\bstnode.h
+
+1593659382 source:c:\users\eric alpizar\downloads\tarea corta 5 - tablas hash, Árboles de búsqueda binaria\bstree\main.cpp
+	<iostream>
+	"include\BSTree.h"
+	<string>
+
+1593659705 c:\users\eric alpizar\downloads\tarea corta 5 - tablas hash, Árboles de búsqueda binaria\bstree\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1593658973 c:\users\eric alpizar\downloads\tarea corta 5 - tablas hash, Árboles de búsqueda binaria\bstree\include\bstnode.h
+
+1593659382 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\kvbstree\main.cpp
+	<iostream>
+	"include\BSTree.h"
+	<string>
+
+1593659705 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\kvbstree\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1593658973 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\kvbstree\include\bstnode.h
+

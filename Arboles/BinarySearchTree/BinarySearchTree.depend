@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1592755816 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\main.cpp
+	<iostream>
+	"BSTree.h"
+
+1592704063 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\include\bstnode.h
+
+1593651818 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"list.h"
+	"DLinkedList.h"
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\include\list.h
+
+1592755853 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1587226214 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\binarysearchtree\include\dnode.h
+

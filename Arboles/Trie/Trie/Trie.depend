@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1595709417 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\main.cpp
+	<iostream>
+	"BSTreeDictionary.h"
+	"TrieNode.h"
+	"Trie.h"
+
+1595623071 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\bstreedictionary.h
+	"Dictionary.h"
+	"BSTree.h"
+	"KVPair.h"
+	<stdexcept>
+
+1589660243 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\dictionary.h
+	"List.h"
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\list.h
+
+1595705069 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\bstree.h
+	<stdexcept>
+	"BSTNode.h"
+	"list.h"
+	"DLinkedList.h"
+
+1592704063 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\bstnode.h
+
+1595639656 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\dlinkedlist.h
+	"DNode.h"
+	<stdexcept>
+
+1595637563 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\dnode.h
+
+1595644078 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\kvpair.h
+
+1595645450 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\trienode.h
+	"BSTreeDictionary.h"
+
+1595711608 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\trie\trie\include\trie.h
+	<string>
+	<stdexcept>
+	"TrieNode.h"
+

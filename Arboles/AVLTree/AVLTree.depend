@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1595019069 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\main.cpp
+	<iostream>
+	"AVLTree.h"
+
+1595018914 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\include\avltree.h
+	"List.h"
+	"DLinkedList.h"
+	"BSTNode.h"
+	<stdexcept>
+
+1583464940 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\include\list.h
+
+1592755853 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\include\dlinkedlist.h
+	"List.h"
+	"DNode.h"
+	<stdexcept>
+
+1587226214 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\include\dnode.h
+
+1592704063 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\avltree\include\bstnode.h
+

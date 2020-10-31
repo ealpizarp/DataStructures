@@ -1,0 +1,81 @@
+# depslib dependency file v1.0
+1593833670 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\main.cpp
+	<iostream>
+	"BSTree.h"
+	"HashTable.h"
+	<time.h>
+	<string>
+	"List.h"
+	"LinkedList.h"
+	<stdexcept>
+
+1593833746 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1593658973 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\bstnode.h
+
+1593793882 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+
+1538201399 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\dictionary.h
+	"List.h"
+
+1519404306 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\list.h
+
+1504912687 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\kvpair.h
+
+1593786548 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1525202839 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\tarea_5\include\node.h
+	<cstdlib>
+
+1593833941 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\main.cpp
+	<iostream>
+	"BSTree.h"
+	"HashTable.h"
+	<time.h>
+	<string>
+	"List.h"
+	"LinkedList.h"
+	<stdexcept>
+
+1593833746 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\bstree.h
+	"BSTNode.h"
+	<stdexcept>
+
+1593658973 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\bstnode.h
+
+1593793882 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\hashtable.h
+	"Dictionary.h"
+	"KVPair.h"
+	"LinkedList.h"
+	<string>
+	<stdlib.h>
+	<stdio.h>
+	<cmath>
+
+1538201399 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\dictionary.h
+	"List.h"
+
+1519404306 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\list.h
+
+1504912687 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\kvpair.h
+
+1593786548 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\linkedlist.h
+	"Node.h"
+	<stdexcept>
+	<iostream>
+
+1525202839 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\tareas\archivos finales\tarea_5\include\node.h
+	<cstdlib>
+

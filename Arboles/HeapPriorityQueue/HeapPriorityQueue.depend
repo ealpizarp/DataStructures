@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1592683875 source:c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heappriorityqueue\main.cpp
+	<iostream>
+	"HeapPriorityQueue.h"
+	<time.h>
+	<cstdlib>
+	<string>
+
+1592693521 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heappriorityqueue\include\heappriorityqueue.h
+	"PriorityQueue.h"
+	"MinHeap.h"
+	"KVPair.h"
+
+1592620242 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heappriorityqueue\include\priorityqueue.h
+
+1592684083 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heappriorityqueue\include\minheap.h
+	<stdexcept>
+
+1589660700 c:\users\eric alpizar\onedrive\desktop\tec\estructuras de datos\arboles\heappriorityqueue\include\kvpair.h
+
